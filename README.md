@@ -1,12 +1,12 @@
-## Back-End simple from Dicoding Course ##
+## Back-End simple from Dicoding Course 
 
-## How to start the server ##
+<h2> How to start the server </h2>
 
-**1. cd notes-app-back-end**
+**1. cd notes-app-back-end**<br>
 Open the folder 
 
-**2. npm install**
+**2. npm install**<br>
 Install all the dependencies
 
-**3. npm run start**
+**3. npm run start**<br>
 Server listening on port 3000
